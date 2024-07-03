@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dynamic Frontend Web Developer skilled in creating robust and intuitive web applications. Proficient in React, Angular, and Vue.js for crafting responsive and interactive user interfaces. Experienced with Next.js for optimized server-side rendering and static site generation. Strong backend development skills with Node.js and Python, ensuring seamless application performance. Expertise in database management with MySQL and PostgreSQL. Dedicated to implementing best practices and staying abreast of the latest technologies to deliver cutting-edge solutions. Committed to continuous learning and excellence in web development.
+Dynamic FullStack Web Developer skilled in creating robust and intuitive web applications. Proficient in React, Angular, and Vue.js for crafting responsive and interactive user interfaces. Experienced with Next.js for optimized server-side rendering and static site generation. Strong backend development skills with Node.js, PHP and Python, ensuring seamless application performance. Expertise in database management with MySQL and PostgreSQL. Dedicated to implementing best practices and staying abreast of the latest technologies to deliver cutting-edge solutions. Committed to continuous learning and excellence in web development.
 
 
 # 💻 Tech Stack:
